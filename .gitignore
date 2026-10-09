@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.log
+.env
+.env.*
+.DS_Store
+# Private dataset - never commit or deploy
+03_fraud_transactions.json
+*.local.json
